@@ -1,17 +1,24 @@
 sdfrg sdf double 234sdf
+
 int asd
-kirthotr
+ki"rthotr"i
 (+dsf 345)
 dsfg
-34 a
+34 a aa
 sdf   = ss44 + 2
-if int a == 5
-    print(a is 5)
+int a = 5
+if( a == 5)
+    print("a is 5")
 else
-    print( is not 5)
+    print("is not 5")
 aasdf
-sdf              aa
+sdf1234              aa
 while
+1234        /t
+wh  ileint
+"asdfasdfa3245!@#$sdf"  1234
 
+2137
 
 do xdxd
+"sdf"
